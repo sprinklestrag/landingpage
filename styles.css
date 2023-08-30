@@ -299,6 +299,7 @@ nav > ul {
 
 .product > ol > li {
     padding: 5px 0;
+    text-align: center;
 }
 
 .product > button {
